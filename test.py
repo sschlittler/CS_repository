@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("Hallo, Streamlit!")
-st.write("Das ist meine erste Streamlit-App.")
+st.title("Hallo, Streamlit!, I meant hi")
+st.write("Das ist meine erste Streamlit-App. echt")
 
 st.header("This is a header with a divider", divider="gray")
 
